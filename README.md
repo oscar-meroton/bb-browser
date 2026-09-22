@@ -1,6 +1,6 @@
 # DEPRECATION NOTICE
 
-This project has been deprecated. See [BB
+This project has been deprecated and will be archived on 2027-01-01. See [BB
 Portal](https://github.com/buildbarn/bb-portal) which includes a drop-in
 replacement.
 
